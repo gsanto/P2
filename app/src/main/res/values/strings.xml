@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">P2</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">RadioSet55</string>
     <string name="action_settings">Settings</string>
+    <string name="action_login">Login</string>
+    <string name="s1">RS55</string>
+    <string name="register">reg</string>
 </resources>
